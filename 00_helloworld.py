@@ -1,3 +1,3 @@
 name = input('your name: ')
-print('hello')
+print('hello\non the second line')
 print(name)
