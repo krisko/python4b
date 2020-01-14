@@ -1,0 +1,5 @@
+1. pip install virtualenv
+2. python -m venv <folder_name>
+     alt. -> virtualenv <filder_name>
+3. source <folder_name>/bin/activate
+4. after activation, venv python will be used

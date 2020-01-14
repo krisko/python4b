@@ -11,4 +11,4 @@ outputA = 'Hello, {} {}'.format(fname, lname)
 outputB = 'Hello, {1} {0}'.format(fname, lname)
 outputC = f'Hello, {fname} {lname}'
 
-print(outputA +"::"+ outputB +"::"+ outputC)
+print(outputA + "::" + outputB + "::"+ outputC)
